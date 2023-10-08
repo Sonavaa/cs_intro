@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\bin\Debug\net6.0\c# Intro.exe
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\bin\Debug\net6.0\c# Intro.deps.json
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\bin\Debug\net6.0\c# Intro.runtimeconfig.json
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\bin\Debug\net6.0\c# Intro.dll
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\bin\Debug\net6.0\c# Intro.pdb
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\c# Intro.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\c# Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\c# Intro.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\c# Intro.AssemblyInfo.cs
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\c# Intro.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\c# Intro.dll
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\refint\c# Intro.dll
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\c# Intro.pdb
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\c# Intro.genruntimeconfig.cache
+C:\Users\HP\Desktop\P237\c# intro\c# Intro\c# Intro\obj\Debug\net6.0\ref\c# Intro.dll
